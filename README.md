@@ -1,6 +1,6 @@
-# solidity-coverage-extended
+# contractshark-solidity-coverage
 
-
+> npm i contractshark-solidity-coverage
 
 Can now pass in MAX_BUFFER as environment variable
 
@@ -13,9 +13,9 @@ Can now pass in MAX_BUFFER as environment variable
     await api.onPreCompile(config);
 ```
 
-https://github.com/sc-forks/solidity-coverage/commit/63bfce90ffdb2f18f1d133fe330b3e377a218704
-https://github.com/sc-forks/solidity-coverage/commit/5588917da8706cbf6925a08fc57cbf0a78c08a2d
-https://github.com/sc-forks/solidity-coverage/commit/5588917da8706cbf6925a08fc57cbf0a78c08a2d
+https://github.com/sc-forks/solidity-coverage/commit/63bfce90ffdb2f18f1d133fe330b3e377a218704 <br>
+https://github.com/sc-forks/solidity-coverage/commit/5588917da8706cbf6925a08fc57cbf0a78c08a2d <br> 
+https://github.com/sc-forks/solidity-coverage/commit/5588917da8706cbf6925a08fc57cbf0a78c08a2d <br>
 
 
 ## Code coverage for Solidity testing
